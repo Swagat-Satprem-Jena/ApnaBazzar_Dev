@@ -50,10 +50,6 @@ Contributions to Apna Bazzar are welcome! If you encounter any issues or have su
 
 Please make sure to follow the existing code style and conventions. Include relevant test cases for your changes and ensure all tests pass before submitting a pull request.
 
-## License
-
-Apna Bazzar is open-source software released under the [MIT License](LICENSE).
-
 ## Acknowledgements
 
 Apna Bazzar relies on the following libraries, frameworks, and services:
